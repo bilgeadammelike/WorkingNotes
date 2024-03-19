@@ -1,0 +1,15 @@
+
+
+Word ,excel, ve pdf dosyarının bozuk olması durumunda Syncfusion memory leak
+
+Out Of Memory
+
+Word,Excel içinde Pdf de olduğu gibi IsCorrupt mithodu varmı?.
+
+
+
+
+
+Word found unreadable content in docFile.docx. Do you want to recover the contents this document?
+If truste the source of this document, click Yes
+
